@@ -1,20 +1,17 @@
 cff-version: 1.2.0
-preferred citation:
-  type: misc
-  message: "If you use this software, you may cite it as below."
-  authors:
-  - family-names: "Budzik"
-    given-names: "Kasia"
-  - family-names: "Gaiotto"
-    given-names: "Davide"
-  - family-names: "Kulp"
-    given-names: "Justin"
-  - family-names: "Wu"
-    given-names: "Jingxiang"
-  - family-names: "Yu"
-    given-names: "Matthew"
-  howpublished: "\url{https://github.com/TwistedQFTs/laman-loopstrap}",
-  title: "Laman Loopstrap"
-  version: 1.0.0
-  date-released: 2022-07-27
-  url: "https://github.com/TwistedQFTs/laman-loopstrap"
+message: "If you use this software, you may cite it as below."
+authors:
+- family-names: "Budzik"
+  given-names: "Kasia"
+- family-names: "Gaiotto"
+  given-names: "Davide"
+- family-names: "Kulp"
+  given-names: "Justin"
+- family-names: "Wu"
+  given-names: "Jingxiang"
+- family-names: "Yu"
+  given-names: "Matthew"
+title: "Laman Loopstrap"
+version: 1.0.0
+date-released: 2022-07-27
+url: "https://github.com/TwistedQFTs/laman-loopstrap"
